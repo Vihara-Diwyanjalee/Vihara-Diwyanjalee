@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vihara Diwyanjalee</h1>
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
-<img align="right" alt="cording" width="400" src="C:\Users\vihar\Pictures\Saved Pictures\she-is-brilliant-programmer-nerdy-young-computer-programmer-poring-data-software-network-interface-ai-generative-female-software-developer-coding-concentrating_28914-4502.jpg">
+<img align="right" alt="image" width="400" src="C:\Users\vihar\Pictures\Saved Pictures\she-is-brilliant-programmer-nerdy-young-computer-programmer-poring-data-software-network-interface-ai-generative-female-software-developer-coding-concentrating_28914-4502.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vihara-diwyanjalee&label=Profile%20views&color=0e75b6&style=flat" alt="vihara-diwyanjalee" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vihara-diwyanjalee&label=Profile%20views&color=0e75b6&style=flat" alt="vihara-diwyanjalee" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
