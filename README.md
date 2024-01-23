@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vihara Diwyanjalee</h1>
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
-<img align="right" alt="cording" width="400" src="https://www.freepik.com/premium-photo/she-is-brilliant-programmer-nerdy-young-computer-programmer-poring-data-software-network-interface-ai-generative-female-software-developer-coding-concentrating_38935997.htm#page=2&query=girls%20coding&position=32&from_view=keyword&track=ais&uuid=7736f77c-faf4-4a0d-90ed-83ea364698d4">
+<img align="right" alt="cording" width="400" src="C:\Users\vihar\Pictures\Saved Pictures\she-is-brilliant-programmer-nerdy-young-computer-programmer-poring-data-software-network-interface-ai-generative-female-software-developer-coding-concentrating_28914-4502.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vihara-diwyanjalee&label=Profile%20views&color=0e75b6&style=flat" alt="vihara-diwyanjalee" /> </p>
 
