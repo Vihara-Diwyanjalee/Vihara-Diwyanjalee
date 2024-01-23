@@ -1,4 +1,4 @@
-![logo](https://github.com/Vihara-Diwyanjalee/Vihara-Diwyanjalee/blob/main/Gen-2%202951633417%2C%20Screenshot%202024-01-2%2C%20M%205.gif)
+<center>![logo](https://github.com/Vihara-Diwyanjalee/Vihara-Diwyanjalee/blob/main/Gen-2%202951633417%2C%20Screenshot%202024-01-2%2C%20M%205.gif)</center>
 <h1 align="center">Hi 👋, I'm Vihara Diwyanjalee</h1>
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
 <img align="right" width="300" alt="image" src="https://github.com/Vihara-Diwyanjalee/Vihara-Diwyanjalee/blob/main/she-is-brilliant-programmer-nerdy-young-computer-programmer-poring-data-software-network-interface-ai-generative-female-software-developer-coding-concentrating_28914-4502.jpg">
