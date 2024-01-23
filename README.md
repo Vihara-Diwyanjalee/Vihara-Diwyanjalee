@@ -1,3 +1,4 @@
+![logo](https://github.com/Vihara-Diwyanjalee/Vihara-Diwyanjalee/blob/main/Gen-2%202951633417%2C%20Screenshot%202024-01-2%2C%20M%205.mp4)
 <h1 align="center">Hi 👋, I'm Vihara Diwyanjalee</h1>
 <h3 align="center">A passionate IT student from Sri Lanka</h3>
 
