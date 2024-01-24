@@ -39,10 +39,12 @@
     </td>
   </tr>
 </table>
+
 ---
+
 </p>
 <div align="center">
-<img src="assets/gg.gif"  width="200" height="200" align="center"/></div>
+<img src="assets/gg.gif"  width="200" height="200" align="center" alt="gif"/></div>
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vihara-diwyanjalee&show_icons=true&locale=en&layout=compact" alt="vihara-diwyanjalee" /></p>
 <!--
