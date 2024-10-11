@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vihara-diwyanjalee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vihara_Diwyanjalee" height="30" width="40" /></a>
 </p>
----
 
 <h2 align="center">Languages and Tools</h2>
 <br>
@@ -120,7 +119,6 @@
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
   </a>
 </p>
-
 
 ---
 
