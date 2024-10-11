@@ -16,8 +16,13 @@
 - ⚡ Fun fact **I think I am funny**
 
 - <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/vihara-diwyanjalee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vihara_Diwyanjalee" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vihara-diwyanjalee/" target="_blank" style="text-decoration: none; color: black;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vihara_Diwyanjalee" height="30" width="40" style="vertical-align: middle;" />
+    <span style="vertical-align: middle;">Vihara Diwyanjalee</span>
+  </a>
 </p>
+
 
 ---
 
