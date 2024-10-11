@@ -113,11 +113,8 @@
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
   </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="colab" width="40" height="40"/>
-  </a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" alt="anaconda" width="40" height="40"/>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
