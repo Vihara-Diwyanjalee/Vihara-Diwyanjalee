@@ -103,11 +103,12 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
+ <!-- Added Icons -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fpower-bi-logo%2F&psig=AOvVaw38jIasbzoey1uLzZCVQxkI&ust=1728737416239000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjn3fCuhokDFQAAAAAdAAAAABAE" alt="powerbi" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer">
-    <img src="https://www.cs.waikato.ac.nz/ml/weka/images/weka_logo_sml.png" alt="weka" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Weka_logo.svg" alt="weka" width="40" height="40"/>
   </a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="colab" width="40" height="40"/>
