@@ -105,7 +105,7 @@
   </a>
  <!-- Added Icons -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+    <img src="https://logos-world.net/power-bi-logo/" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Weka_logo.svg" alt="weka" width="40" height="40"/>
